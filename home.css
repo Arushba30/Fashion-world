@@ -1,0 +1,38 @@
+header{
+    background-color: rgb(220, 65, 124);
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 35px;
+}
+header h1{
+    text-align: left;
+    float: left;
+    text-shadow: 1px 1px 2px white, 5px 5px 5px wheat,10px 10px 25px whitesmoke ;
+}
+header div{
+    font-size: xx-large;
+    text-align: right;
+    float: right;
+    text-shadow: 1px 1px 2px white, 0 0 5px wheat,0 0 5px whitesmoke ;
+}
+body{
+    border: 1px solid black;
+    background-image: url('https://t4.ftcdn.net/jpg/03/39/50/99/360_F_339509959_SXyYbnK2ek2s0QFt0hKS6N4FODJ986eR.jpg');
+    background-size: 2000px 1000px;
+    background-repeat: no-repeat;
+    padding: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}  
+footer{
+    text-align: center;
+    padding: 5px;
+    font-size: larger;
+}
+.pagination {
+    display: inline-block;
+}
+.pagination a {
+    color: black;
+    padding: 8px 16px;
+    text-decoration: none;
+}

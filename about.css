@@ -1,0 +1,29 @@
+header{
+    background-color: rgb(247, 119, 168);
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    text-shadow: 1px 1px 2px white, 0 0 5px wheat,0 0 5px whitesmoke;
+    padding: 10px;
+}
+p{
+    background-color: rgb(255, 217, 221);
+    width: 480px;
+    height: 350px;
+    font-size: x-large;
+}
+.fashion1{
+  column-count: 3;
+  column-gap: 40px;
+  column-rule-style: double;
+  column-rule-width: 5px;
+  column-rule-color: black;
+}
+.fashion2 img{
+    width: 480px;
+    height: 400px;
+}
+.fashion3 img{
+    width: 200;
+    height: 700;
+}
